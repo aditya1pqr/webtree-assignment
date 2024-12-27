@@ -13,7 +13,7 @@ function App() {
         setUser(resp)
       })
     })
-  },[])
+  },[0])
 
   return (
     <>
